@@ -1,4 +1,4 @@
-![Screenshot (2)](https://github.com/QuantumCoding123/Day-30-Ecommerce-Product-FeedBack-Review/assets/166281221/4cef59b7-b80d-496a-81d5-7d6033a56d63)# Day-30-Ecommerce-Product-FeedBack-Review
+# Day-30-Ecommerce-Product-FeedBack-Review
 
 Embark on an exhilarating journey of web development with the "100 Days, 100 Websites" challenge! Over the course of 100 days, immerse yourself in the world of HTML, CSS, and JavaScript as you craft 100 unique websites from scratch. Each day presents an opportunity to explore new design concepts, master coding techniques, and unleash your creativity.
 
